@@ -1,4 +1,4 @@
-License - Eclipse Public License - v 2.0
+Eclipse Public License - v 2.0
 ========================================
 
 Copyright (c) 2009, 2024 Mountainminds GmbH & Co. KG and Contributors
